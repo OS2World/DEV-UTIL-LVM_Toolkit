@@ -14,6 +14,8 @@ COMPILE TOOLS
 AUTHORS
 ===============
 * Alex Taylor
+* LVMTEST sample by John Martin Alfredsson
+* QUERYLVM sample by Alex Taylor
 
 LINKS
 ===============
